@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi, I'm Paulo 👋
 
-<!--
-**Paulo1610/Paulo1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer focused on building real-world web projects and interactive tools.
 
-Here are some ideas to get you started:
+I enjoy creating clean, simple, and functional interfaces using modern web technologies.  
+Most of my projects are deployed and built to solve real problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Nickzrr Method Website
+Official website for the Nickzrr Method, a Fortnite training program focused on smart gameplay and decision-making.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://metodonickzrr.com.br/
+
+---
+
+### 🔹 Driving School Quiz
+Interactive quiz that helps users choose the ideal driving school package based on their needs.  
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://descubraseupacoteideal.netlify.app/
+
+---
+
+### 🔹 Sensitivity Finder
+Simple web tool to help Fortnite players discover their ideal sensitivity settings.  
+**Tech:** HTML, JavaScript  
+🔗 https://descubrasuasens.netlify.app/
+
+---
+
+## 🛠️ Technologies & Skills
+- HTML5  
+- CSS3  
+- JavaScript  
+- Responsive Design  
+- Git & GitHub  
+- Netlify Deployment  
+
+---
+
+## 🎨 Complementary Skills
+- UI mockups and marketing visuals using Canva  
+- Basic video editing for short-form content (Reels / TikTok)  
+- Thumbnails and visuals for landing pages  
+
+---
+
+## 📌 About Me
+- Frontend Developer from Brazil 🇧🇷  
+- Focused on practical projects and continuous improvement  
+- Currently building my personal portfolio website  
+
+---
+
+Thanks for visiting my profile!
