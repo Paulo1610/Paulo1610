@@ -16,12 +16,7 @@ Official website for the Nickzrr Method, a Fortnite training program focused on 
 
 ---
 
-### 🔹 Driving School Quiz
-Interactive quiz that helps users choose the ideal driving school package based on their needs.  
-**Tech:** HTML, CSS, JavaScript  
-🔗 https://descubraseupacoteideal.netlify.app/
 
----
 
 ### 🔹 Sensitivity Finder
 Simple web tool to help Fortnite players discover their ideal sensitivity settings.  
